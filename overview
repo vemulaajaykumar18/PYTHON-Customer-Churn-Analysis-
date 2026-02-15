@@ -1,0 +1,72 @@
+# Customer Churn Analysis (EDA Project)
+
+## 📌 Project Overview
+
+Customer churn is one of the most critical problems in subscription-based and service-driven businesses.  
+This project performs an Exploratory Data Analysis (EDA) on a customer churn dataset to uncover:
+
+- Patterns behind customer attrition
+- Behavioral differences between churned vs retained users
+- Key drivers influencing churn
+
+---
+
+## 🎯 Objective
+
+The goal of this analysis is to:
+
+✔ Understand customer characteristics  
+✔ Identify churn trends & risk factors  
+✔ Extract actionable business insights  
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+## 📊 Key Analysis Performed
+
+### ✅ Structural Inspection
+- Dataset shape & schema validation
+- Data types & feature categorization
+
+### ✅ Missing Value Analysis
+- Detection of null values
+- Data consistency checks
+
+### ✅ Data Cleaning & Transformation
+- Standardization of categorical variables
+- Feature simplification for modeling
+
+### ✅ Exploratory Analysis
+- Customer demographic patterns
+- Service usage behavior
+- Contract & billing relationships
+
+---
+
+## 🔍 Example Business Questions Explored
+
+- Do contract types influence churn?
+- Does tenure correlate with retention?
+- Are high-paying customers more loyal?
+- Which services reduce churn probability?
+
+---
+
+## 📈 Insights (Example Format)
+
+✔ Customers with month-to-month contracts show higher churn risk  
+✔ Longer tenure strongly correlates with retention  
+✔ Customers using multiple services churn less frequently  
+
+---
+
+## 📁 Repository Structure
